@@ -1,0 +1,18 @@
+/* *{
+    margin: 0%;
+}
+
+.top{
+    height: 30%;
+    width: auto;
+    background-color: #333333;
+}    */
+*{
+    margin: 0%;
+}
+
+.top{
+    line-height: 15;
+    background-color: #333333;
+    color: #333333;
+}
